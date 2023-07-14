@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 🔭 I’m currently working on
-All these projects are NOT publicly available yet, but should be added soon.
+Some of these projects are NOT publicly available yet, but should be added soon.
 
 ## Old C stuff
 I've found very old and simple, small C tools that could be usefull
@@ -12,7 +12,7 @@ They're not perfect, and I'll probably be suggesting improvements.
 
 | 3D model | Description |
 | -------- | ----------- |
-| ![easter_rabbit](https://github.com/witabix33/witabix33/blob/main/easter_rabbit_x400.png) | **easter_rabbit** Is a little 3D-printed rabbit that can be planted in a flowerpot. The rabbit is based on a simple coloring drawing, modified to include a hole for the support foot. The foot can be a simple Chinese food chopstick. | 
+| ![easter_rabbit](https://github.com/witabix33/witabix33/blob/main/easter_rabbit_x400.png) | [**easter_rabbit**](https://github.com/witabix33/easter_rabbit) Is a little 3D-printed rabbit that can be planted in a flowerpot. The rabbit is based on a simple coloring drawing, modified to include a hole for the support foot. The foot can be a simple Chinese food chopstick. | 
 | ![phone_holder](https://github.com/witabix33/witabix33/blob/main/phone_holder_main_x400.png) | **phone_holder** Is a 3D telephone headset holder that can be hung on the partition wall with your colleague opposite. The openscad model can be parameterized to adjust the dimensions. |
 
 
